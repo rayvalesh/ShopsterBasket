@@ -1,0 +1,23 @@
+
+.grid__itemBefore {
+  display: flex;
+  padding: 5px;
+  cursor:pointer;
+  background-color: white;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+.grid__itemAfter {
+  display: flex;
+  padding: 5px;
+  cursor:pointer;
+}
+.custom__checkbox {
+  position: absolute;
+  margin-left: 150px;
+  margin-top: 5px;
+}
+.image {
+  height: 170px;
+  width: 170px;
+}
